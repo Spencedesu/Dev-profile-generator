@@ -1,4 +1,5 @@
 const questions = [
+  "What is your favorite color?",
   
 ];
 
